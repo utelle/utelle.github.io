@@ -1,6 +1,6 @@
 # utelle.github.io
 
-My main focus is on developing components for [wxWidgets](https://www.wxwidgets.org) based applications.
+My main focus in open-source software development is on developing components for [wxWidgets](https://www.wxwidgets.org) based applications.
 
 The following components are under active development:
 
